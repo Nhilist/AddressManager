@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<AppData xmlns="http://tempuri.org/AppData.xsd">
+  <AddressBook>
+    <Address>here there and everywhere</Address>
+    <FullAddress>112 anywhere here s</FullAddress>
+    <PhoneNumber>2054011371</PhoneNumber>
+    <Email>pscotttaylor@msn.com</Email>
+    <ID>-1</ID>
+    <FullName>Scott Taylor</FullName>
+  </AddressBook>
+  <AddressBook>
+    <Address>there</Address>
+    <FullAddress>Over here testing edit
+</FullAddress>
+    <PhoneNumber>5551217</PhoneNumber>
+    <Email>ttyalor@@gmail.com</Email>
+    <ID>-2</ID>
+    <FullName>Tara Taylor</FullName>
+  </AddressBook>
+  <AddressBook>
+    <Address>123 here and there</Address>
+    <PhoneNumber>5551212</PhoneNumber>
+    <Email>rid@gmail.com</Email>
+    <ID>-3</ID>
+    <FullName>Ridley Taylor</FullName>
+  </AddressBook>
+</AppData>
